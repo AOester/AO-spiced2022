@@ -1,0 +1,33 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 28-03-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+ 2759,111448,BERLIN-TEMPELHOF                        ,DE,+52:28:07,+013:24:14,  48, TG3,19480101,20220228,   11,National Climate Data Center (DWD)                
+ 2759,127488,BERLIN-DAHLEM (LFAG)                    ,DE,+52:27:28,+013:18:05,  55, TG3,18760101,19621231,   11,National Climate Data Center (DWD)                
+ 2759,128124,BERLIN-TREPTOW                          ,DE,+52:27:24,+013:28:18,  35, TG3,19470101,19601231,   11,National Climate Data Center (DWD)                
+ 4533,100133,BERLIN-DAHLEM                           ,DE,+52:27:50,+013:18:06,  51, TG3,19500101,20220228,   11,National Climate Data Center (DWD)                
+ 4533,127488,BERLIN-DAHLEM (LFAG)                    ,DE,+52:27:28,+013:18:05,  55, TG3,18760101,19621231,   11,National Climate Data Center (DWD)                
+ 4586,111448,BERLIN-TEMPELHOF                        ,DE,+52:28:07,+013:24:14,  48, TG3,19480101,20220228,   11,National Climate Data Center (DWD)                
+ 4586,127488,BERLIN-DAHLEM (LFAG)                    ,DE,+52:27:28,+013:18:05,  55, TG3,18760101,19621231,   11,National Climate Data Center (DWD)                
+ 4586,128124,BERLIN-TREPTOW                          ,DE,+52:27:24,+013:28:18,  35, TG3,19470101,19601231,   11,National Climate Data Center (DWD)                

@@ -1,0 +1,32 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 28-03-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  TN1,Minimum temperature unknown interval                                                                                                                  ,0.1 &#176;C    
+  TN2,Minimum temperature 18-18 UT                                                                                                                          ,0.1 &#176;C    
+  TN3,Minimum temperature 0-0 UT                                                                                                                            ,0.1 &#176;C    
+  TN5,Minimum temperature morning previous day 06,07,08 until morning day                                                                                   ,0.1 &#176;C    
+  TN6,Minimum temperature between 18 UT previous day and 06 UT today                                                                                        ,0.1 &#176;C    
+  TN8,Minimum temperature 21-21 CET                                                                                                                         ,0.1 &#176;C    
+  TN9,Minimum temperature morning previous day 09 h GMT until morning today                                                                                 ,0.1 &#176;C    
+ TN10,Minimum temperature from 21:30 previous day until 21:30 CET                                                                                           ,0.1 &#176;C    
+ TN11,Minimum temperature 19-19 UTC                                                                                                                         ,0.1 &#176;C    
+ TN12,Minimum temperature within 00-24, 12-12 or 18-18                                                                                                      ,0.1 &#176;C    
+ TN13,Minimum temperature 0-0 LT based on hourly intervals                                                                                                  ,0.1 &#176;C    
+ TN14,Minimum temperature 17-17 CET                                                                                                                         ,0.1 &#176;C    
+ TN15,Minimum temperature 22-22 or 23-23 UT                                                                                                                 ,0.1 &#176;C    
+ TN16,Minimum temperature 15-15 UTC                                                                                                                         ,0.1 &#176;C    
+ TN17,Minimum temperature 22-21 UT                                                                                                                          ,0.1 &#176;C    
+ TN18,Minimum temperature 19-19 CET                                                                                                                         ,0.1 &#176;C    

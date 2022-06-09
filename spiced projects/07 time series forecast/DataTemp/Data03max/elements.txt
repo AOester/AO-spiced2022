@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 28-03-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  TX1,Maximum temperature unknown interval                                                                                                                  ,0.1 &#176;C    
+  TX2,Maximum temperature 18-18 UT                                                                                                                          ,0.1 &#176;C    
+  TX3,Maximum temperature 0-0 UT                                                                                                                            ,0.1 &#176;C    
+  TX5,Maximum temperature morning previous day 06,07,08 until morning today (shifted 1 day back by ECA staff)                                               ,0.1 &#176;C    
+  TX6,Maximum temperature morning today 06,07,08 until morning next day                                                                                     ,0.1 &#176;C    
+  TX7,Maximum temperature between 06 and 18 UT today                                                                                                        ,0.1 &#176;C    
+  TX8,Maximum temperature 21-21 CET                                                                                                                         ,0.1 &#176;C    
+  TX9,Maximum temperature morning previous day 09 h GMT until morning today (shifted 1 day back by ECA staff)                                               ,0.1 &#176;C    
+ TX10,Maximum temperature from 21:30 previous day until 21:30 CET                                                                                           ,0.1 &#176;C    
+ TX11,Maximum temperature morning today 9 UTC until morning next day                                                                                        ,0.1 &#176;C    
+ TX12,Maximum temperature 19-19 UTC                                                                                                                         ,0.1 &#176;C    
+ TX13,Maximum temperature within 00-24, 12-12 or 06-06                                                                                                      ,0.1 &#176;C    
+ TX14,Maximum temperature 0-0 LT based on hourly intervals                                                                                                  ,0.1 &#176;C    
+ TX15,Maximum temperature 17-17 CET                                                                                                                         ,0.1 &#176;C    
+ TX16,Maximum temperature 22-22 or 23-23 UT                                                                                                                 ,0.1 &#176;C    
+ TX17,Maximum temperature 18-18 CET                                                                                                                         ,0.1 &#176;C    
+ TX18,Maximum temperature 15-15 UTC                                                                                                                         ,0.1 &#176;C    
+ TX19,Maximum temperature 22-21 UT                                                                                                                          ,0.1 &#176;C    
+ TX20,Maximum temperature 19-19 CET                                                                                                                         ,0.1 &#176;C    
